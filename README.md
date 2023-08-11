@@ -1,1 +1,1 @@
-Thus is a power Bi end to end project
+This is a power Bi end to end project
